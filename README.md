@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="profile-first-repo.svg" alt="frist">
+  <a href="https://github.com"><img src="profile-first-repo.svg" alt="frist"></a>
 </p>
 
 <!--
