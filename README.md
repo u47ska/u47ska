@@ -15,7 +15,7 @@
 <p align="center">💛 ❤️ 💓 💞 💜 💕 💖 💙 💚 💗 💘</p>
 
 <p align="center">
-  <img src="profile-first-repo.svg" alt="frist" "Created their first repository">
+  <img src="profile-first-repo.svg" alt="frist">
 </p>
 
 <!--
