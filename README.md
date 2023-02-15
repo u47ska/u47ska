@@ -14,6 +14,10 @@
 
 <p align="center">💛 ❤️ 💓 💞 💜 💕 💖 💙 💚 💗 💘</p>
 
+![Created their first repository](profile-first-repo.svg "Created their first repository")
+
+
+
 <!--
 **u47ska/u47ska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
