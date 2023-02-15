@@ -8,9 +8,9 @@
 
 <p align="center">
   ⏩
-  <strong><a href="https://u47ska.github.io">u47ska</a></strong> |
-  <strong><a href="https://twitter.com/">Twitter</a></strong> |
-  <strong><a href="https://discord.com/">Discord</a></strong>	
+  <strong><a href="https://u47ska.github.io">000</a></strong> |
+  <strong><a href="https://u47ska.github.io">000</a></strong> |
+  <strong><a href="https://u47ska.github.io">000</a></strong>	
   ⏪
 </p>
 
