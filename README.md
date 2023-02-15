@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://u47ska.github.io"><img src="bbd7tenjry5ijk5.jpg" alt="Banner"></a>
+  <a href="https://u47ska.github.io"><img src="img/Banner.jpg" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi there 👋</h1>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com"><img src="profile-first-repo.svg" alt="frist"></a>
+  <a href="https://github.com"><img src="img/profilefirstrepo.svg" alt="frist"></a>
 </p>
 
 <!--
