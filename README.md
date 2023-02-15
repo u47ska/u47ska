@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi there 👋</h1>
 
+<p align="center">💛 ❤️ 💓 💞 💜 💕 💖 💙 💚 💗 💘</p>
+
 <p align="center">
   ⏩
   <strong><a href="https://u47ska.github.io">u47ska</a></strong> |
@@ -11,8 +13,6 @@
   <strong><a href="https://discord.com/">Discord</a></strong>	
   ⏪
 </p>
-
-<p align="center">💛 ❤️ 💓 💞 💜 💕 💖 💙 💚 💗 💘</p>
 
 <p align="center">
   <img src="profile-first-repo.svg" alt="frist">
