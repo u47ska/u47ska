@@ -2,7 +2,8 @@
   <a href="https://u47ska.github.io"><img src="bbd7tenjry5ijk5.jpg" alt="Banner"></a>
 </p>
 
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Welcome to my GitHub profile~</h1>
 
 <!--
 **u47ska/u47ska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
