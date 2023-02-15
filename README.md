@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://u47ska.github.io"><img src="bbd7tenjry5ijk5.jpg" alt="Banner"></a>
+</p>
+
 ### Hi there 👋
 
 <!--
