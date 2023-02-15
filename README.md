@@ -9,9 +9,10 @@
   ⏩
   <strong><a href="https://u47ska.github.io">u47ska</a></strong> |
   <strong><a href="https://twitter.com/">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/">Discord</a></strong>	
+  <strong><a href="https://discord.com/">Discord</a></strong>	
   ⏪
 </p>
+
 
 <!--
 **u47ska/u47ska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
