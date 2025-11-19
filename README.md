@@ -2,7 +2,7 @@
   <a href="https://u47ska.github.io"><img src="img/Banner.png" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋🏻</h1>
 
 <p align="center">💛 ❤️ 💓 💞 💜 💕 💖 💙 💚 💗 💘</p>
 
